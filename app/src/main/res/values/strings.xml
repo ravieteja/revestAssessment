@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Revest Sample</string>
+    <string name="store">Revest store</string>
+
+    <string name="back">Back</string>
+    <string name="rating">Rating</string>
+    <string name="total_price">Total Price: </string>
+    <string name="unavailable">Product unavailable</string>
+    <string name="loading">Loading</string>
+</resources>
